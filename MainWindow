@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Prakt4"
         mc:Ignorable="d"
-        Title="Scientific Calculator (Поставьте 5!)" Height="450" Width="400">
+        Title="Scientific Calculator (Поставьте 5!)" Height="450" Width="400"
+        ResizeMode="NoResize">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition></RowDefinition>
